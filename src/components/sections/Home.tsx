@@ -26,9 +26,6 @@ export const Home = () => {
           </Button>
         </div>
       </div>
-      <div>
-        test
-      </div>
     </div>
   );
 };
