@@ -27,7 +27,7 @@ export const Home = () => {
         </div>
       </div>
       <div>
-        
+        test
       </div>
     </div>
   );
